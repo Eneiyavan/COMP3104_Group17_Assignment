@@ -8,3 +8,17 @@ The software development lifecycle (SDLC) is the process teams follow to plan, b
 DevOps is a culture and set of practices that brings development and operations together. 
 It aims to shorten the development cycle and deliver high-quality software more quickly and reliably. 
 Its importance in the SDLC can be seen in several areas.
+
+1. Faster delivery
+Automation of building, testing and deployment lets teams release small updates frequently instead of large, risky releases.
+ New features and fixes reach users sooner.
+ 
+2. Continuous integration and continuous delivery (CI/CD)
+Every change pushed to a shared repository can trigger automated builds and tests. 
+Problems are found within minutes rather than weeks, and code is always kept in a deployable state. 
+Tools such as GitHub Actions make this simple to set up.
+ 
+3. Better collaboration
+Version control with Git and GitHub, branching strategies, pull requests and code reviews allow many people to 
+work on the same project without overwriting each other's work. 
+Shared ownership improves communication between developers, testers and operations staff.
