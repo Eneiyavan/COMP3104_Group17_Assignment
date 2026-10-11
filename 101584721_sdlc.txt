@@ -22,3 +22,19 @@ Tools such as GitHub Actions make this simple to set up.
 Version control with Git and GitHub, branching strategies, pull requests and code reviews allow many people to 
 work on the same project without overwriting each other's work. 
 Shared ownership improves communication between developers, testers and operations staff.
+
+4. Higher quality and reliability
+Automated testing, code review and consistent environments reduce bugs and the "it works on my machine" problem. 
+Monitoring and logging in production help teams detect and fix issues quickly.
+ 
+5. Reduced risk and easier recovery
+Small, frequent changes are easier to understand, test and roll back than large ones. 
+If a release causes problems, the team can identify the cause and recover faster.
+ 
+6. Efficiency and cost savings
+Automating repetitive manual tasks frees people to focus on creating value. 
+Fewer failed deployments and less downtime also reduce costs.
+ 
+7. Continuous feedback and improvement
+DevOps treats the lifecycle as a loop of plan, code, build, test, release, deploy, operate and monitor.
+ Feedback from monitoring and users flows back into planning, so the product keeps improving.
