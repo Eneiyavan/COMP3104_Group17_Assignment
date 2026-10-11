@@ -30,5 +30,3 @@ Topics Covered
 - Week 13: Commonly used DevOps tools such as Ansible, Puppet, Chef, Nagios, ELK and New Relic, plus containerization with Docker and writing Dockerfile, Vagrant and YAML scripts.
 - Week 14: Transitioning into a DevOps career, market demand, required skills and certifications.
  
-Tools and Resources
-The course uses industry-standard tools including GitHub, Travis CI, Docker, Kubernetes and SonarQube. The required textbook is "Exploring DevOps: An Introduction for Beginners".
