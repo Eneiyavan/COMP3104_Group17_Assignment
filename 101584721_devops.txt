@@ -1,0 +1,17 @@
+COMP3104 - DevOps (George Brown Polytechnic)
+ 
+Course Overview
+COMP3104 - DevOps teaches the procedures, protocols and best practices that a DevOps engineer brings to a workplace to increase productivity. 
+Students analyze and evaluate different developer operations implementations and complete hands-on work using an industry-standard toolkit.
+ The goal is to create solutions to complex business problems by following the core responsibilities of DevOps.
+ 
+ Course Outcomes
+By the end of the course, students should be able to:
+1. Show knowledge of effective DevOps techniques and provide solutions using industry-standard tools and techniques, such as continuous integration, delivery and deployment strategies, the software development lifecycle and application containerization.
+2. Perform hands-on lab work by applying DevOps techniques.
+3. Collaborate effectively with IT staff by following the roles and responsibilities of an engineer.
+4. Analyze and use Version Control System workflows for low-risk software releases.
+5. Make well-informed architectural decisions for software products, especially monolith versus microservice architectures.
+6. Monitor code quality and deploy applications to hosting services.
+7. Use service platforms such as Infrastructure as Code and understand the benefits of cloud computing products.
+8. Identify the market space for a DevOps engineer.
