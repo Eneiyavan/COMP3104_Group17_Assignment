@@ -1,0 +1,32 @@
+COMP3104 - DevOps (George Brown Polytechnic)
+ 
+Course Overview
+COMP3104 - DevOps teaches the procedures, protocols and best practices that a DevOps engineer brings to a workplace to increase productivity. 
+Students analyze and evaluate different developer operations implementations and complete hands-on work using an industry-standard toolkit.
+ The goal is to create solutions to complex business problems by following the core responsibilities of DevOps.
+ 
+ Course Outcomes
+By the end of the course, students should be able to:
+1. Show knowledge of effective DevOps techniques and provide solutions using industry-standard tools and techniques, such as continuous integration, delivery and deployment strategies, the software development lifecycle and application containerization.
+2. Perform hands-on lab work by applying DevOps techniques.
+3. Collaborate effectively with IT staff by following the roles and responsibilities of an engineer.
+4. Analyze and use Version Control System workflows for low-risk software releases.
+5. Make well-informed architectural decisions for software products, especially monolith versus microservice architectures.
+6. Monitor code quality and deploy applications to hosting services.
+7. Use service platforms such as Infrastructure as Code and understand the benefits of cloud computing products.
+8. Identify the market space for a DevOps engineer.
+
+ 
+Topics Covered
+- Weeks 1-2: Introduction to DevOps, why DevOps matters, build pipelines, BASH and the command line, version control systems (CVCS vs DVCS), Git and GitHub, SSH and access tokens.
+- Week 3: Using version control for DevOps, monolith vs microservice architecture, vertical and horizontal scaling, remote repositories and the Git CLI.
+- Week 4: DevOps roles, culture and lifecycle, core DevOps principles, VCS workflows, and continuous integration with Travis CI.
+- Week 5: Hosting single page applications, build tools such as Gradle and Maven, and work tracking with Jira.
+- Week 6: Continuous Integration and Continuous Deployment, configuring Jenkins, continuous testing and documenting with Markdown.
+- Week 9: CI/CD pipeline sequences, branch deployments, Git hooks, declarative and scripted Jenkins pipelines and low-risk deployment strategies.
+- Week 10: Cloud infrastructure, types of cloud computing, XaaS, serverless, and DevOps security practices (SAST/DAST).
+- Week 11: Automation and quality assurance, TDD and BDD, SonarQube code quality checks, and testing tools such as Selenium and Appium.
+- Week 12: DevOps assembly lines and maturing CI pipelines.
+- Week 13: Commonly used DevOps tools such as Ansible, Puppet, Chef, Nagios, ELK and New Relic, plus containerization with Docker and writing Dockerfile, Vagrant and YAML scripts.
+- Week 14: Transitioning into a DevOps career, market demand, required skills and certifications.
+ 
