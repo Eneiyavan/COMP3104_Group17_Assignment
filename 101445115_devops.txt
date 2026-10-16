@@ -1,0 +1,40 @@
+## Information about the COMP 3104 DevOps course.
+
+# COMP3104  - DevOps
+
+Instructor: Pritesh Patel
+Email: pritesh.patel2@georgebrown.ca 
+Course Schedule: Wednesdays, 6:00 PM
+Duration: September 8, 2026 - December 20, 2026
+Meeting Location: Microsoft Teams
+
+# Description:
+This course is designed to provide students with hands on experience for entering into the IT field. The focus of DevOps is quality control, and workflow efficiency.  
+
+Some of the learning material covers Amazon Web Services, Ansible, Docker and
+Travis CI, and end-to-end deployment processes. Students will have the opportunity to set up their own build pipeline! 
+
+Applying DevOps practices will ensure success as a developer. 
+
+# Course Outcomes
+At the end of this course, the student will reliably demonstrate the ability to:
+1. Demonstrate knowledge of effective DevOps techniques and be able to provide solutions using industry standard tools and techniques such as continuous
+integration/delivery/deployment strategies, software development lifecycle application containerization for deployment, etc.
+2. Perform hand-on lab work by applying DevOps techniques.
+3. Ensure effective cross collaboration amongst IT staff by following the role and
+responsibilities of an engineer.
+4. Analyze and utilize Version Control System workflows for low-risk software releases.
+5. Take well informed architectural decisions for software products, specifically in the context of monolith vs microservice architectures.
+6. Monitor code quality and deploy applications to hosting services.
+7. Utilize service platforms such as Infrastructure as Code and the associated benefits of cloud computing products.
+8. Identify the market space as a DevOps engineer.
+
+# Recommended Resources:
+1. https://github.com
+2. https://travis-ci.com
+3. https://docker.com
+4. https://kubernetes.io
+5. https://www.sonarqube.org
+
+#Required Texts:
+- Exploring DevOps: An Introduction for Beginners - 978-1-927041-22-2
