@@ -10,8 +10,22 @@ Traditionally, code went through waiting periods for testing, integration, and d
 # Feedback
 DevOps emphasizes continuous monitoring and logging of applications in production. After deployment, teams track performance metrics, error rates, and user behaviour in real time. This loop helps prepare for the next planning cycle.
 
-#Quality Control
+# Quality Control
 Human errors are common, which impact manual testing, and deployment. DevOps uses automated testing, infrastructure as code (IaC), and monitoring to validate each release in standardized environments. If an issue slips through, automated rollbacks and quick feedback help to prevent minor bugs from becoming major problems.
 
 # Scalability & Infrastructure Consistency
 Infrastructure as Code (IaC) tools like Terraform or Ansible, automate infrastructure to defined and provisioned programmatically. So, development, staging, or production environments can be scaled accordingly. This ensure security compliance, decreases possibility of environment drifts, which makes scaling applications to meet sudden traffic spikes seamless.
+
+# DevOps Stages & tools -some examples are:
+1. Plan 
+    Trello, Jira, Azure
+2. Code 
+    Git, GitHub, GitLab
+4. Build 
+    Docker, Gradle
+5. Test 
+    Wiremock
+6. Deploy 
+    Github Actions, kubernetes
+7. Monitor 
+    Grafana, Prometheus
