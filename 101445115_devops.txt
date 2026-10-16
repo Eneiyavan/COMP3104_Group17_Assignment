@@ -2,7 +2,8 @@
 
 # COMP3104  - DevOps
 
-Instructor: Pritesh Patel 
+Instructor: Pritesh Patel
+Email: pritesh.patel2@georgebrown.ca 
 Course Schedule: Wednesdays, 6:00 PM
 Duration: September 8, 2026 - December 20, 2026
 Meeting Location: Microsoft Teams
