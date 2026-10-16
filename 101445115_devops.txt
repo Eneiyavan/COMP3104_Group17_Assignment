@@ -27,3 +27,13 @@ responsibilities of an engineer.
 6. Monitor code quality and deploy applications to hosting services.
 7. Utilize service platforms such as Infrastructure as Code and the associated benefits of cloud computing products.
 8. Identify the market space as a DevOps engineer.
+
+# Recommended Resources:
+1. https://github.com
+2. https://travis-ci.com
+3. https://docker.com
+4. https://kubernetes.io
+5. https://www.sonarqube.org
+
+#Required Texts:
+- Exploring DevOps: An Introduction for Beginners - 978-1-927041-22-2
