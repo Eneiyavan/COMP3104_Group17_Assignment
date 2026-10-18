@@ -9,3 +9,7 @@ It helps teams detect problems early and deliver more reliable applications.
 Automation
 
 DevOps automation reduces repetitive manual work and helps improve consistency across development activities.
+
+Testing and Quality
+
+Automated testing helps teams identify software defects early and improve overall product reliability.
