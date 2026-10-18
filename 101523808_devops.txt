@@ -13,3 +13,7 @@ Git tracks changes in project files. GitHub hosts repositories and supports coll
 Branching
 
 Branches allow developers to work independently without immediately modifying the shared main branch.
+
+Continuous Integration
+
+Continuous integration uses automated workflows to validate code changes when developers push updates.
