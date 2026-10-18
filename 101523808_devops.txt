@@ -1,0 +1,7 @@
+COMP3104 - DevOps
+
+COMP3104 introduces students to DevOps principles and modern software development practices.
+
+DevOps promotes collaboration between development and operations teams.
+
+The course covers version control, Git, GitHub, branching, continuous integration, and automation.

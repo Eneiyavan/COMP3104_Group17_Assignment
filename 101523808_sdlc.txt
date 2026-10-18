@@ -1,0 +1,7 @@
+Importance of DevOps in SDLC
+
+The Software Development Life Cycle includes planning, analysis, design, implementation, testing, deployment, and maintenance.
+
+DevOps improves collaboration, automates repetitive tasks, and supports continuous software delivery.
+
+It helps teams detect problems early and deliver more reliable applications.
