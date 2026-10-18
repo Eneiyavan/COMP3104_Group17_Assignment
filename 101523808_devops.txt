@@ -9,3 +9,7 @@ The course covers version control, Git, GitHub, branching, continuous integratio
 Git and GitHub
 
 Git tracks changes in project files. GitHub hosts repositories and supports collaboration between developers.
+
+Branching
+
+Branches allow developers to work independently without immediately modifying the shared main branch.
