@@ -5,3 +5,7 @@ The Software Development Life Cycle includes planning, analysis, design, impleme
 DevOps improves collaboration, automates repetitive tasks, and supports continuous software delivery.
 
 It helps teams detect problems early and deliver more reliable applications.
+
+Automation
+
+DevOps automation reduces repetitive manual work and helps improve consistency across development activities.
