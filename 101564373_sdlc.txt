@@ -34,3 +34,34 @@ Developers monitor application performance, fix issues, and release updates.
 Importance of SDLC
 
 SDLC provides a clear development process, improves teamwork, reduces project risks, and helps deliver software that meets customer expectations.
+Role of DevOps in SDLC
+
+DevOps plays an important role in improving the Software Development Life Cycle by connecting development and operations teams.
+
+It encourages collaboration, automation, continuous testing, and faster software delivery.
+
+How DevOps Improves SDLC
+
+1. Improved Collaboration
+DevOps encourages developers, testers, and operations teams to work together throughout the development process.
+
+2. Continuous Integration
+Developers frequently integrate their code into a shared repository. Automated builds and tests help identify problems early.
+
+3. Continuous Delivery
+DevOps helps teams prepare software for frequent and reliable releases through automated delivery pipelines.
+
+4. Automated Testing
+Automated testing reduces manual effort and helps developers detect software defects earlier.
+
+5. Faster Deployment
+Deployment automation reduces human errors and allows applications to be released more efficiently.
+
+6. Continuous Monitoring
+Monitoring tools help teams track application performance, identify failures, and improve reliability.
+
+Conclusion
+
+Integrating DevOps practices into SDLC improves software quality, team collaboration, and delivery efficiency.
+
+DevOps supports continuous improvement throughout the software development process.
