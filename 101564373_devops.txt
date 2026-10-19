@@ -21,3 +21,31 @@ Benefits of DevOps
 3. Early detection of errors through continuous testing.
 4. More reliable software deployment.
 5. Better monitoring and maintenance of applications.
+Version Control with Git and GitHub
+
+Git is a distributed version control system that allows developers to track changes in their source code.
+
+GitHub is a cloud-based platform that hosts Git repositories and supports collaboration between developers.
+
+Important Git commands include:
+
+1. git clone - Copies a remote repository to a local computer.
+2. git branch - Displays available branches.
+3. git add - Stages files for committing.
+4. git commit - Records changes in the repository history.
+5. git push - Uploads local commits to a remote repository.
+6. git pull - Retrieves and integrates remote changes.
+
+Continuous Integration and Continuous Delivery
+
+Continuous Integration (CI) is the practice of frequently merging code changes into a shared repository and automatically running builds and tests.
+
+Continuous Delivery (CD) helps ensure that software remains ready for deployment through automated processes.
+
+GitHub Actions
+
+GitHub Actions is an automation platform that allows developers to create workflows for building, testing, and deploying applications.
+
+Workflows are defined using YAML files stored in the .github/workflows directory.
+
+GitHub Actions helps developers detect problems early and maintain software quality.
