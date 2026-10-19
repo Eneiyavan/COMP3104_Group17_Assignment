@@ -65,3 +65,28 @@ Conclusion
 Integrating DevOps practices into SDLC improves software quality, team collaboration, and delivery efficiency.
 
 DevOps supports continuous improvement throughout the software development process.
+Common SDLC Models
+
+1. Waterfall Model
+
+The Waterfall model follows a sequential approach where each development phase is completed before the next phase begins.
+
+2. Agile Model
+
+The Agile model uses iterative development, frequent feedback, and collaboration to deliver software in smaller increments.
+
+3. Spiral Model
+
+The Spiral model combines iterative development with risk analysis. It is useful for complex projects that require careful risk management.
+
+4. DevOps Approach
+
+DevOps complements SDLC methodologies by integrating development, testing, deployment, and operations through automation and continuous feedback.
+
+Agile and DevOps
+
+Agile focuses on iterative development and responding to changing requirements.
+
+DevOps extends collaboration into deployment and operations, helping teams deliver and maintain software efficiently.
+
+Together, Agile and DevOps support continuous improvement, faster feedback, and reliable software delivery.
