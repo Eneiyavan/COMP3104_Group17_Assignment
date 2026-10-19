@@ -3,7 +3,7 @@
 ## Group Members
 - **Leader:** Eneiyavan Sivaganean (101584721) - [GitHub](https://github.com/Eneiyavan)
 - **Member 2:** Fabiha Ishaque (101445115) - [GitHub](https://github.com/fabihaishaque)
-- **Member 3:** Jamal Alhariri (STUDENT ID) - [GitHub](https://github.com/JamalAlhariri)
+- **Member 3:** Jamal Alhariri (101579734) - [GitHub](https://github.com/JamalAlhariri)
 - **Member 4:** Kamran Omar (STUDENT ID) - [GitHub](https://github.com/kamranomars-sudo)
 - **Member 5:** Nousheen Perween (STUDENT ID) - [GitHub](https://github.com/Nousheen83)
 
