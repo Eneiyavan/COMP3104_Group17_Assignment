@@ -1,0 +1,23 @@
+Introduction to DevOps
+Student Name: Kamran Omar
+Student ID: 101564373
+
+What is DevOps?
+
+DevOps combines software development (Dev) and IT operations (Ops). It focuses on improving collaboration, automation, and communication between development and operations teams.
+
+DevOps helps organizations develop, test, and release software more efficiently while maintaining quality and reliability.
+
+COMP3104 DevOps Course
+
+The COMP3104 DevOps course introduces students to version control, continuous integration, continuous delivery, and software development workflows.
+
+Students learn how to use tools such as Git, GitHub, GitHub Actions, and Jenkins to manage software projects and automate development processes.
+
+Benefits of DevOps
+
+1. Faster software delivery through automation.
+2. Improved collaboration between development and operations teams.
+3. Early detection of errors through continuous testing.
+4. More reliable software deployment.
+5. Better monitoring and maintenance of applications.
