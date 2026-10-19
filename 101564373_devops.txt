@@ -49,3 +49,23 @@ GitHub Actions is an automation platform that allows developers to create workfl
 Workflows are defined using YAML files stored in the .github/workflows directory.
 
 GitHub Actions helps developers detect problems early and maintain software quality.
+Popular DevOps Tools
+
+1. Jenkins
+Jenkins is an open-source automation server used to build, test, and deploy software through CI/CD pipelines.
+
+2. Docker
+Docker allows developers to package applications and their dependencies into containers. Containers help applications run consistently across different environments.
+
+3. Kubernetes
+Kubernetes is a container orchestration platform that automates the deployment, scaling, and management of containerized applications.
+
+4. GitHub Actions
+GitHub Actions automates development workflows such as running tests, building applications, and deploying software.
+
+5. Terraform
+Terraform is an Infrastructure as Code tool that allows teams to define and manage infrastructure using configuration files.
+
+Conclusion
+
+DevOps tools help development teams automate repetitive tasks, improve collaboration, and deliver reliable software more efficiently.
