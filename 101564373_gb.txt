@@ -13,3 +13,15 @@ George Brown College emphasizes hands-on learning through labs, projects, and co
 
 Career Opportunities
 Graduates of computer programming programs can pursue careers such as software developer, web developer, application developer, database developer, and quality assurance analyst.
+
+Technology and Innovation
+
+George Brown College provides students with opportunities to learn modern technologies, including programming languages, databases, cloud computing, and software development tools.
+
+Students can work on projects that involve GitHub, Docker, web applications, and database systems. These projects help develop technical and teamwork skills.
+
+Importance of Teamwork
+
+Teamwork is an important part of software development. Group assignments allow students to collaborate, share responsibilities, manage project tasks, and practice version control.
+
+By working together, students gain communication, problem-solving, and collaboration skills that are valuable in professional IT environments.
