@@ -1,0 +1,88 @@
+Introduction to DevOps
+Student Name: Kamran Omar
+Student ID: 101564373
+
+What is DevOps?
+
+DevOps combines software development (Dev) and IT operations (Ops). It focuses on improving collaboration, automation, and communication between development and operations teams.
+
+DevOps helps organizations develop, test, and release software more efficiently while maintaining quality and reliability.
+
+COMP3104 DevOps Course
+
+The COMP3104 DevOps course introduces students to version control, continuous integration, continuous delivery, and software development workflows.
+
+Students learn how to use tools such as Git, GitHub, GitHub Actions, and Jenkins to manage software projects and automate development processes.
+
+Benefits of DevOps
+
+1. Faster software delivery through automation.
+2. Improved collaboration between development and operations teams.
+3. Early detection of errors through continuous testing.
+4. More reliable software deployment.
+5. Better monitoring and maintenance of applications.
+Version Control with Git and GitHub
+
+Git is a distributed version control system that allows developers to track changes in their source code.
+
+GitHub is a cloud-based platform that hosts Git repositories and supports collaboration between developers.
+
+Important Git commands include:
+
+1. git clone - Copies a remote repository to a local computer.
+2. git branch - Displays available branches.
+3. git add - Stages files for committing.
+4. git commit - Records changes in the repository history.
+5. git push - Uploads local commits to a remote repository.
+6. git pull - Retrieves and integrates remote changes.
+
+Continuous Integration and Continuous Delivery
+
+Continuous Integration (CI) is the practice of frequently merging code changes into a shared repository and automatically running builds and tests.
+
+Continuous Delivery (CD) helps ensure that software remains ready for deployment through automated processes.
+
+GitHub Actions
+
+GitHub Actions is an automation platform that allows developers to create workflows for building, testing, and deploying applications.
+
+Workflows are defined using YAML files stored in the .github/workflows directory.
+
+GitHub Actions helps developers detect problems early and maintain software quality.
+Popular DevOps Tools
+
+1. Jenkins
+Jenkins is an open-source automation server used to build, test, and deploy software through CI/CD pipelines.
+
+2. Docker
+Docker allows developers to package applications and their dependencies into containers. Containers help applications run consistently across different environments.
+
+3. Kubernetes
+Kubernetes is a container orchestration platform that automates the deployment, scaling, and management of containerized applications.
+
+4. GitHub Actions
+GitHub Actions automates development workflows such as running tests, building applications, and deploying software.
+
+5. Terraform
+Terraform is an Infrastructure as Code tool that allows teams to define and manage infrastructure using configuration files.
+
+Conclusion
+
+DevOps tools help development teams automate repetitive tasks, improve collaboration, and deliver reliable software more efficiently.
+Real-World Applications of DevOps
+
+DevOps practices are widely used in software development to improve application delivery, reliability, and teamwork.
+
+Example 1: Web Application Development
+
+When developers update a web application, they push their code to GitHub. A GitHub Actions workflow can automatically build and test the application to detect errors.
+
+Example 2: Containerized Applications
+
+Development teams use Docker to package applications and their dependencies into containers. This helps maintain consistent environments during development, testing, and deployment.
+
+Example 3: Team Collaboration
+
+Developers work on separate Git branches to implement features. They create pull requests so teammates can review changes before merging them into the main branch.
+
+These practices improve software quality and make development workflows more efficient.

@@ -1,0 +1,27 @@
+George Brown College
+Student Name: Kamran Omar
+Student ID: 101564373
+
+Introduction
+George Brown College is a public college located in Toronto, Ontario, Canada. It offers career-focused education in technology, business, health sciences, design, and other fields.
+
+Computer Programming and Analysis
+The Computer Programming and Analysis program helps students develop programming, software development, database management, and problem-solving skills. Students gain practical experience with tools and technologies used in the IT industry.
+
+Practical Learning
+George Brown College emphasizes hands-on learning through labs, projects, and collaborative assignments. These activities help students apply classroom knowledge to real-world situations.
+
+Career Opportunities
+Graduates of computer programming programs can pursue careers such as software developer, web developer, application developer, database developer, and quality assurance analyst.
+
+Technology and Innovation
+
+George Brown College provides students with opportunities to learn modern technologies, including programming languages, databases, cloud computing, and software development tools.
+
+Students can work on projects that involve GitHub, Docker, web applications, and database systems. These projects help develop technical and teamwork skills.
+
+Importance of Teamwork
+
+Teamwork is an important part of software development. Group assignments allow students to collaborate, share responsibilities, manage project tasks, and practice version control.
+
+By working together, students gain communication, problem-solving, and collaboration skills that are valuable in professional IT environments.

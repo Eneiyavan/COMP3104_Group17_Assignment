@@ -1,0 +1,92 @@
+Software Development Life Cycle (SDLC)
+Student Name: Kamran Omar
+Student ID: 101564373
+
+Introduction to SDLC
+
+The Software Development Life Cycle (SDLC) is a structured process used to plan, design, develop, test, deploy, and maintain software applications.
+
+SDLC helps development teams create reliable, efficient, and high-quality software that meets user requirements.
+
+Main Phases of SDLC
+
+1. Planning
+The project team identifies business goals, requirements, resources, and timelines.
+
+2. Requirements Analysis
+Developers and stakeholders gather and analyze the functional and non-functional requirements of the software.
+
+3. Design
+The development team creates the system architecture, database design, and user interface.
+
+4. Development
+Programmers write source code and implement the required application features.
+
+5. Testing
+Software testers verify that the application works correctly and identify bugs or errors.
+
+6. Deployment
+The completed application is released to users or production environments.
+
+7. Maintenance
+Developers monitor application performance, fix issues, and release updates.
+
+Importance of SDLC
+
+SDLC provides a clear development process, improves teamwork, reduces project risks, and helps deliver software that meets customer expectations.
+Role of DevOps in SDLC
+
+DevOps plays an important role in improving the Software Development Life Cycle by connecting development and operations teams.
+
+It encourages collaboration, automation, continuous testing, and faster software delivery.
+
+How DevOps Improves SDLC
+
+1. Improved Collaboration
+DevOps encourages developers, testers, and operations teams to work together throughout the development process.
+
+2. Continuous Integration
+Developers frequently integrate their code into a shared repository. Automated builds and tests help identify problems early.
+
+3. Continuous Delivery
+DevOps helps teams prepare software for frequent and reliable releases through automated delivery pipelines.
+
+4. Automated Testing
+Automated testing reduces manual effort and helps developers detect software defects earlier.
+
+5. Faster Deployment
+Deployment automation reduces human errors and allows applications to be released more efficiently.
+
+6. Continuous Monitoring
+Monitoring tools help teams track application performance, identify failures, and improve reliability.
+
+Conclusion
+
+Integrating DevOps practices into SDLC improves software quality, team collaboration, and delivery efficiency.
+
+DevOps supports continuous improvement throughout the software development process.
+Common SDLC Models
+
+1. Waterfall Model
+
+The Waterfall model follows a sequential approach where each development phase is completed before the next phase begins.
+
+2. Agile Model
+
+The Agile model uses iterative development, frequent feedback, and collaboration to deliver software in smaller increments.
+
+3. Spiral Model
+
+The Spiral model combines iterative development with risk analysis. It is useful for complex projects that require careful risk management.
+
+4. DevOps Approach
+
+DevOps complements SDLC methodologies by integrating development, testing, deployment, and operations through automation and continuous feedback.
+
+Agile and DevOps
+
+Agile focuses on iterative development and responding to changing requirements.
+
+DevOps extends collaboration into deployment and operations, helping teams deliver and maintain software efficiently.
+
+Together, Agile and DevOps support continuous improvement, faster feedback, and reliable software delivery.
