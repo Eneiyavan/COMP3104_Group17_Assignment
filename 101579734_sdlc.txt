@@ -29,3 +29,13 @@ Maintenance happens after the software has been released. Developers need to fix
 Monitoring is also important because it helps teams notice errors or performance problems in an application.
 
 By connecting development, deployment, and maintenance, DevOps helps make the software development process more efficient.
+
+Teamwork and Collaboration in DevOps
+
+Teamwork is important throughout the SDLC because developers often work on different parts of the same project.
+
+DevOps encourages developers, testers, and operations teams to communicate regularly and share responsibility for software quality.
+
+In our group assignment, we use separate Git branches so each student can work independently. After completing our changes, we use pull requests to review and merge our work into the master branch.
+
+This approach helps organize the project, track contributions, and reduce conflicts between team members.
