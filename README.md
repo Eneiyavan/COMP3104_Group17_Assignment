@@ -5,7 +5,7 @@
 - **Member 2:** Fabiha Ishaque (101445115) - [GitHub](https://github.com/fabihaishaque)
 - **Member 3:** Jamal Alhariri (101579734) - [GitHub](https://github.com/JamalAlhariri)
 - **Member 4:** Kamran Omar (STUDENT ID) - [GitHub](https://github.com/kamranomars-sudo)
-- **Member 5:** Nousheen Perween (STUDENT ID) - [GitHub](https://github.com/Nousheen83)
+- **Member 5:** Nousheen Perween (101523808) - [GitHub](https://github.com/Nousheen83)
 
 ## Project Description
 This repository hosts the group assignment for the COMP3104 DevOps course at George Brown Polytechnic. It focuses on collaborative Git workflows, a per-developer branching strategy, pull requests, merge conflict resolution and continuous integration with GitHub Actions.
