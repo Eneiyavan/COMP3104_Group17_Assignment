@@ -15,3 +15,13 @@ Git is a version control system that helps developers track changes in their pro
 GitHub is used to store repositories online and work with other developers. Team members can create their own branches, push their changes, and use pull requests to merge their work.
 
 For our group assignment, each student works on a separate branch. This helps us avoid changing each other's files and makes the project easier to manage.
+
+Continuous Integration and Continuous Delivery
+
+CI stands for Continuous Integration. It means developers regularly combine their code changes and use automated checks to find problems early.
+
+CD stands for Continuous Delivery or Continuous Deployment. It helps teams prepare or release software updates more efficiently.
+
+GitHub Actions is a tool that can automate tasks when code is pushed to GitHub. In our group assignment, we use a GitHub Actions workflow to check that the pipeline runs successfully.
+
+Automation is important in DevOps because it reduces manual work and helps teams release software more reliably.
