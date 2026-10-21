@@ -19,3 +19,13 @@ For example, automated testing can check whether code is working correctly after
 Continuous Integration (CI) allows developers to regularly combine their code changes. Tools like GitHub Actions can run workflows automatically when changes are pushed to a repository.
 
 Using automation during the SDLC can save time, improve software quality, and make teamwork easier.
+
+Deployment and Maintenance in DevOps
+
+Deployment is the process of making an application available to users. DevOps helps teams deploy updates more frequently by using automated processes.
+
+Maintenance happens after the software has been released. Developers need to fix bugs, improve performance, and update features when needed.
+
+Monitoring is also important because it helps teams notice errors or performance problems in an application.
+
+By connecting development, deployment, and maintenance, DevOps helps make the software development process more efficient.
