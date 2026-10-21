@@ -1,0 +1,9 @@
+COMP3104 - DevOps
+Student: Jamal Alhariri
+Student ID: 101579734
+
+DevOps is an approach that brings software development and IT operations together. The goal is to make building, testing, and releasing software faster and more reliable.
+
+In this course, we work with tools such as Git, GitHub, and GitHub Actions. Git helps track changes to code, while GitHub allows developers to share their work and collaborate on projects.
+
+DevOps is useful because it improves teamwork, helps find problems earlier, and reduces repetitive manual work through automation.
