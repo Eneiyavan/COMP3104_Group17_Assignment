@@ -7,3 +7,11 @@ DevOps is an approach that brings software development and IT operations togethe
 In this course, we work with tools such as Git, GitHub, and GitHub Actions. Git helps track changes to code, while GitHub allows developers to share their work and collaborate on projects.
 
 DevOps is useful because it improves teamwork, helps find problems earlier, and reduces repetitive manual work through automation.
+
+Git and GitHub in DevOps
+
+Git is a version control system that helps developers track changes in their projects. Each commit saves a record of the changes made.
+
+GitHub is used to store repositories online and work with other developers. Team members can create their own branches, push their changes, and use pull requests to merge their work.
+
+For our group assignment, each student works on a separate branch. This helps us avoid changing each other's files and makes the project easier to manage.
