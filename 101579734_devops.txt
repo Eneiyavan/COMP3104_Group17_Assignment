@@ -1,0 +1,37 @@
+COMP3104 - DevOps
+Student: Jamal Alhariri
+Student ID: 101579734
+
+DevOps is an approach that brings software development and IT operations together. The goal is to make building, testing, and releasing software faster and more reliable.
+
+In this course, we work with tools such as Git, GitHub, and GitHub Actions. Git helps track changes to code, while GitHub allows developers to share their work and collaborate on projects.
+
+DevOps is useful because it improves teamwork, helps find problems earlier, and reduces repetitive manual work through automation.
+
+Git and GitHub in DevOps
+
+Git is a version control system that helps developers track changes in their projects. Each commit saves a record of the changes made.
+
+GitHub is used to store repositories online and work with other developers. Team members can create their own branches, push their changes, and use pull requests to merge their work.
+
+For our group assignment, each student works on a separate branch. This helps us avoid changing each other's files and makes the project easier to manage.
+
+Continuous Integration and Continuous Delivery
+
+CI stands for Continuous Integration. It means developers regularly combine their code changes and use automated checks to find problems early.
+
+CD stands for Continuous Delivery or Continuous Deployment. It helps teams prepare or release software updates more efficiently.
+
+GitHub Actions is a tool that can automate tasks when code is pushed to GitHub. In our group assignment, we use a GitHub Actions workflow to check that the pipeline runs successfully.
+
+Automation is important in DevOps because it reduces manual work and helps teams release software more reliably.
+
+GitHub Actions in Our Group Project
+
+In our DevOps group project, GitHub Actions runs a workflow whenever someone pushes changes to the repository.
+
+The workflow uses a GitHub-hosted Ubuntu runner, checks out the repository code, and displays status messages.
+
+This is a basic example of continuous integration. The current workflow confirms that the automated job runs successfully, but it does not include actual software tests yet.
+
+Working on this assignment helped me understand how Git branches, commits, pull requests, and GitHub Actions fit together in a team project.
