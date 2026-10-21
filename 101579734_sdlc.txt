@@ -1,0 +1,11 @@
+DevOps and the Software Development Life Cycle (SDLC)
+Student: Jamal Alhariri
+Student ID: 101579734
+
+The Software Development Life Cycle, or SDLC, is the process used to plan, develop, test, and maintain software applications.
+
+The main stages of the SDLC include planning, requirements, design, development, testing, deployment, and maintenance.
+
+DevOps is important in the SDLC because it helps development and operations teams work together throughout the software development process.
+
+Instead of waiting until the end of a project to test or deploy software, DevOps encourages regular testing, collaboration, and automation. This can help teams find problems earlier and deliver updates more efficiently.
