@@ -1,0 +1,41 @@
+DevOps and the Software Development Life Cycle (SDLC)
+Student: Jamal Alhariri
+Student ID: 101579734
+
+The Software Development Life Cycle, or SDLC, is the process used to plan, develop, test, and maintain software applications.
+
+The main stages of the SDLC include planning, requirements, design, development, testing, deployment, and maintenance.
+
+DevOps is important in the SDLC because it helps development and operations teams work together throughout the software development process.
+
+Instead of waiting until the end of a project to test or deploy software, DevOps encourages regular testing, collaboration, and automation. This can help teams find problems earlier and deliver updates more efficiently.
+
+Automation in the SDLC
+
+Automation is an important part of DevOps because it helps developers complete repetitive tasks without doing everything manually.
+
+For example, automated testing can check whether code is working correctly after developers make changes. This helps identify errors before the software is released.
+
+Continuous Integration (CI) allows developers to regularly combine their code changes. Tools like GitHub Actions can run workflows automatically when changes are pushed to a repository.
+
+Using automation during the SDLC can save time, improve software quality, and make teamwork easier.
+
+Deployment and Maintenance in DevOps
+
+Deployment is the process of making an application available to users. DevOps helps teams deploy updates more frequently by using automated processes.
+
+Maintenance happens after the software has been released. Developers need to fix bugs, improve performance, and update features when needed.
+
+Monitoring is also important because it helps teams notice errors or performance problems in an application.
+
+By connecting development, deployment, and maintenance, DevOps helps make the software development process more efficient.
+
+Teamwork and Collaboration in DevOps
+
+Teamwork is important throughout the SDLC because developers often work on different parts of the same project.
+
+DevOps encourages developers, testers, and operations teams to communicate regularly and share responsibility for software quality.
+
+In our group assignment, we use separate Git branches so each student can work independently. After completing our changes, we use pull requests to review and merge our work into the master branch.
+
+This approach helps organize the project, track contributions, and reduce conflicts between team members.
